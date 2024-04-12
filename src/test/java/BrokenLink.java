@@ -10,7 +10,7 @@ import java.io.IOException;
 
 public class BrokenLink {
     public static void main(String[] args) {
-        String siteHost = "https://travel.agileway.net/login";
+        String siteHost = "https://www.wikipedia.org/"; // Replace URL
         List<String> urls = new ArrayList<>(); // URLs to check
         urls.add(siteHost);
 
